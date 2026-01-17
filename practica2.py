@@ -1,6 +1,7 @@
 '''
-Crear un programa que permita realizar las operaciones basicas +, -, *, /
-Utilizando un funciones para cada operacion y un menu principal para desplegar y elegir que operacion realizar
+    Crear un programa que permita realizar las operaciones basicas +, -, *, /
+    Utilizando un funciones para cada operacion y un menu principal para 
+    desplegar y elegir que operacion realizar
 '''
 
 def suma():
@@ -40,3 +41,5 @@ def main():
         division()
     else:
         print('Opcion no valida')
+
+main()
